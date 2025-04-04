@@ -1,10 +1,13 @@
 import pandas as pd
 import os
+from data import get_dataset
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 def load_and_preprocess_data(filepath=None):
     """Loads and preprocesses the Adult Income dataset."""
+
+    get_dataset()
 
     if filepath is None:
         script_dir = os.path.dirname(os.path.abspath(__file__))
