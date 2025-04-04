@@ -10,7 +10,7 @@ It evaluates **logistic regression, decision trees, random forests, SVM, KNN, Na
 
 ---
 
-## ![Accuracy Plots for Models](images/plots.png)
+## ![Accuracy Plots for Models](images/plots.jpg)
 
 ## 📌 Features  
 
