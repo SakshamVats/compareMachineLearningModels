@@ -10,6 +10,8 @@ It evaluates **logistic regression, decision trees, random forests, SVM, KNN, Na
 
 ---
 
+## ![Accuracy Plots for Models](images/plots.png)
+
 ## 📌 Features  
 
 - **Preprocessing:** Automatic dataset handling and feature engineering  
